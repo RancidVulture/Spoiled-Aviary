@@ -1,0 +1,9 @@
+/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+
+/feed.xml
+  Content-Type: application/xml; charset=utf-8
+
+/*/feed.xml
+  Content-Type: application/xml; charset=utf-8

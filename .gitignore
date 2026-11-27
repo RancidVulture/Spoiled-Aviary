@@ -1,0 +1,21 @@
+# Cedar Studio - Exclude private drafts, milestones, and editor state
+editor/
+writer/
+static-writer/
+blog/drafts/
+blog/hidden/
+pages/hidden/
+drafts/
+milestones/
+hidden/
+backups/
+notes/
+*.draft.*
+**/draft.json
+drafts.json
+milestones.json
+**/milestones.json
+vault.json
+notes.json
+.DS_Store
+Thumbs.db
